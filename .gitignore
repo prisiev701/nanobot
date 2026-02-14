@@ -20,3 +20,10 @@ poetry.lock
 .pytest_cache/
 tests/
 botpy.log
+
+
+# agent
+.pytest_cache
+.ruff_cache
+.sisyphus
+.venv
